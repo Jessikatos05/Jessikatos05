@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hello! 👋, I'm Jessika Toscano</h1>
 <h3 align="center">A motivated Software Engineer driven with passion to learn more.</h3>
