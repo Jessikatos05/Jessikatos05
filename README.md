@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hello! 👋, I'm Jessika Toscano</h1>
-<h3 align="center">A motivated Software Engineer driven with passion to learn.</h3>
+<h3 align="center">A motivated Software Engineer driven with passion for the tech industry😄.</h3>
 
 - 🌱 I’m currently learning **Azure Development, C#, SQL**
 
